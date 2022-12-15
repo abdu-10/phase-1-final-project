@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  width: 100%;
+  background-image: url("https://media.istockphoto.com/id/165685641/vector/golfer-teeing-off.jpg?s=612x612&w=0&k=20&c=dh7Chg-ZMfE2tsnw1nGXG1NKVuRDTHDLAmgfF0TdvXY=");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+nav{
+  width: 100%;
+  display: flex;
+  justify-content:space-between;
+}
+nav h3{
+  font-size: 30px;
+  color: blue;
+}
+nav #shopping-cart{
+  float: right;
+  padding-top: 30px;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+/* #header {
+  height: 110px;
+  width: 100%;
+  margin: 0;
+} */
+.reg-form{
+  
+}
+
+/* #text-go {
+  position: relative;
+  text-align: center;
+  font-size: 40px;
+  font-family: monaco;
+  color: rgb(16, 148, 224);
+  left: 55px;
+  bottom: 65px;
+  margin-left: 3%;
+} */
+
+/* #header-img {
+  position: relative;
+  display: block;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+  right: 90px;
+  top: 15px;
+} */
+
+#totalContainer {
+  display: block;
+  height: 30px;
+  width: 100%;
+  margin: 0;
+}
+#countId {
+  position: relative;
+  margin: 0;
+  font-size: 20px;
+  font-weight: 300;
+  font-family: arial;
+  float: right;
+  color: rgb(233, 15, 80);
+  text-align: center;
+  bottom: 32px;
+  right: 0px;
+}
+
+
+#clearCart {
+  position: relative;
+  float: right;
+  bottom: 0px;
+  right: 20px;
+}
+
+#itemArea {
+  
+  margin: 0 auto;
+  margin-top: 50px;
+  
+  
+}
+
+#individualCard {
+  text-align: center;
+  position: relative;
+  padding: 16px;
+  width: 240px;
+  height: 400px;
+  display: inline-grid;
+  justify-self: center;
+  margin-left: 4%;
+  margin-right: 4%;
+  margin-bottom: 50px;
+  border-top: 1px;
+  border-top-color: black;
+  border-top-style: solid;
+}
+#cardImage {
+  justify-self: center;
+  height: 190px;
+  width: 190px;
+}
+
+#nameId {
+  font-size: 20px;
+  font-family: arial;
+  font-weight: 300;
+  margin-bottom: 0%;
+}
+#itemPrice {
+  font-size: 20px;
+  font-weight: 700;
+  color: rgb(182, 35, 35);
+  
+}
+
+/* #email-container {
+  float: right;
+  width: 35%;
+  height: fit-content;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px 3px rgb(183, 183, 183);
+
+} */
+#emailForm {
+  position: relative;
+  text-align: center;
+}
+#form {
+  position: relative;
+  text-align: center;
+  margin-bottom: 50px;
+  
+}
+
+#counterContainer {
+  position: relative;
+  bottom: 40px;
+  left: 20px;
+}
+#subs{
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 300px;
+  border: 3px solid #73AD21;
+  font-style: italic;
+  
+
+     
+     
+
+}
