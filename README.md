@@ -6,9 +6,9 @@
 I built a simple API that includes two arrays, each array being filled with objects; I used this API to create a e-commerce like webpage. This app is revolved around "Golf equipments shopping" so when an item is added to the "cart" you will be alerted at the top of the screen; as you add items to your "cart" the total price will increment by the price of each added item; you can also clear your cart with one click!
 
 ## Setup&Installation Requirements
-* [Clone the repo](https://github.com/jonnygovish/cookie-recipe.git)
+* [Clone the repo](https://github.com/abdu-10/phase-1-final-project.git)
 * use json-server to install and access server
-
+> Alternatively access the deployed project [here](abdu-10.github.io/phase-1-final-project/)
 ## Minimal Viable Product
   * User will be able to add item to cart by pressing a 'add item' button (click)
   * When 'add item' button is click an alert will show saying 'item was added' (alert)
@@ -29,6 +29,10 @@ I built a simple API that includes two arrays, each array being filled with obje
 
 >**NOTE**: This app is a single page application
 
+### License
+
+This is under the [MIT]([LICENSE]()https://github.com/abdu-10/phase-1-final-project/blob/main/LICENSE) license
+Copyright (c) 2022 Abdu omar
 
 
 
