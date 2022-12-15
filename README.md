@@ -33,7 +33,7 @@ I built a simple API that includes two arrays, each array being filled with obje
 
 ### License
 
-This is under the [MIT][LICENSE](https://github.com/abdu-10/phase-1-final-project/blob/main/LICENSE) License
+This is under the [MIT LICENSE](https://github.com/abdu-10/phase-1-final-project/blob/main/LICENSE)
 Copyright (c) 2022 Abdu omar
 
 ---
