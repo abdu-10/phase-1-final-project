@@ -8,7 +8,7 @@ I built a simple API that includes two arrays, each array being filled with obje
 ## Setup&Installation Requirements
 * [Clone the repo](https://github.com/abdu-10/phase-1-final-project.git)
 * use json-server to install and access server
-> Alternatively access the deployed project [here](abdu-10.github.io/phase-1-final-project/)
+> Alternatively access the deployed project [here](https://abdu-10.github.io/phase-1-final-project/)
 ## Minimal Viable Product
   * User will be able to add item to cart by pressing a 'add item' button (click)
   * When 'add item' button is click an alert will show saying 'item was added' (alert)
@@ -29,10 +29,14 @@ I built a simple API that includes two arrays, each array being filled with obje
 
 >**NOTE**: This app is a single page application
 
+--- 
+
 ### License
 
-This is under the [MIT]([LICENSE]()https://github.com/abdu-10/phase-1-final-project/blob/main/LICENSE) license
+This is under the [MIT][LICENSE](https://github.com/abdu-10/phase-1-final-project/blob/main/LICENSE) License
 Copyright (c) 2022 Abdu omar
+
+---
 
 
 
