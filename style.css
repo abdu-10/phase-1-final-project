@@ -3,7 +3,7 @@ body {
   padding: 0;
   overflow-x: hidden;
   width: 100%;
-  background-image: url("https://media.istockphoto.com/id/165685641/vector/golfer-teeing-off.jpg?s=612x612&w=0&k=20&c=dh7Chg-ZMfE2tsnw1nGXG1NKVuRDTHDLAmgfF0TdvXY=");
+  background-image: url("https://cdn.pixabay.com/photo/2022/09/24/16/18/golf-7476694__340.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -15,7 +15,8 @@ nav{
 }
 nav h3{
   font-size: 30px;
-  color: blue;
+  color: rgb(0, 255, 179);
+  font-style: italic;
 }
 nav #shopping-cart{
   float: right;

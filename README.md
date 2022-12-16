@@ -1,4 +1,4 @@
-# IRON
+# IRON Golfer
  A simple app that lets you shop for a variety of golf related items
 **Abdu**
 
