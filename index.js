@@ -49,8 +49,8 @@ function loadGolfCards(golfItem) {
   itemPrice.textContent = '$' + golfItem.price + ".00"
 
   const addToCartButton = document.createElement('button')
+  addToCartButton.setAttribute("class", "addToCartButtonId")
   addToCartButton.id = golfItem.id
-  addToCartButton.className = 'addToCartButtonId'
   addToCartButton.textContent = 'ADD TO CART'
   
   addToCartButton.addEventListener('click', () => {

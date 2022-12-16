@@ -15,18 +15,21 @@ nav{
 }
 nav h3{
   font-size: 30px;
-  color: rgb(0, 255, 179);
+  color: rgb(140, 0, 255);
   font-style: italic;
 }
-nav #shopping-cart{
+#shopping-cart{
   float: right;
   padding-top: 30px;
+  margin-top: 100px;
 }
 
 .center {
   margin: auto;
   width: 50%;
   padding: 10px;
+  
+  
 }
 
 /* #header {
@@ -35,7 +38,11 @@ nav #shopping-cart{
   margin: 0;
 } */
 .reg-form{
-  
+  border: 2px solid lightblue;
+  border-radius: 5px;
+  position: relative;
+  text-align: center;
+  padding-bottom: 3%;
 }
 
 /* #text-go {
@@ -60,11 +67,12 @@ nav #shopping-cart{
   top: 15px;
 } */
 
-#totalContainer {
+.totalContainer {
   display: block;
   height: 30px;
   width: 100%;
   margin: 0;
+
 }
 #countId {
   position: relative;
@@ -77,14 +85,21 @@ nav #shopping-cart{
   text-align: center;
   bottom: 32px;
   right: 0px;
+  margin-top: 12%;
+  margin-right: 112%;
+  
+  
 }
 
-
-#clearCart {
+#test{
+  display: flex;
+  flex-direction: row;
+}
+.clearCart {
   position: relative;
   float: right;
   bottom: 0px;
-  right: 20px;
+  right: 0px;
 }
 
 #itemArea {
@@ -144,12 +159,12 @@ nav #shopping-cart{
   position: relative;
   text-align: center;
 }
-#form {
+/* #form {
   position: relative;
   text-align: center;
   margin-bottom: 50px;
   
-}
+} */
 
 #counterContainer {
   position: relative;
@@ -161,11 +176,22 @@ nav #shopping-cart{
   top: 0;
   right: 0;
   width: 300px;
-  border: 3px solid #73AD21;
+  border: 3px solid #3dad21;
   font-style: italic;
+  background-color: greenyellow;
   
 
      
      
+
+}
+.footer{
+  background-color:rgb(0, 0, 0, 0.2) ;
+  text-align: center;
+  height: 100%;
+}
+.addToCartButtonId{
+  color: red;
+  background-color: purple;
 
 }

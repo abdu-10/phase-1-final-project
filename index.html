@@ -8,7 +8,7 @@
   <body>
     <nav>
       <div>
-        <img src="images/images-removebg-preview.png" width="150px" height="120px" alt="">
+        <img src="assets/images-removebg-preview.png" width="150px" height="120px" alt="">
       </div>
       <h3>IRON GOLFER</h3>
       <div id="shopping-cart">
@@ -16,30 +16,35 @@
       </div> 
       <button id="subs" style="font-size:20px">subscribe</button>     
     </nav>
-    <div class="center">
-      <form id="email-container" class="reg-form" style="display:none">
-      <h2 id="form">
-        EMAIL SIGN UP
-      </h2>
-      <input type="text" name="name" value="" placeholder="Name..." id="inputName" required/>
-      <input type="email" name="email" value="" placeholder="Email..." id="inputEmail" />
-      <input type="submit" name="submit" value="Submit" class="submitButton" />
-    </form>
+    <div id="test">
+      <div class="center">
+        <form id="email-container" class="reg-form" style="display:none">
+        <h2 id="form">
+          EMAIL SIGN UP
+        </h2>
+        <input type="text" name="name" value="" placeholder="Name..." id="inputName" required/>
+        <input type="email" name="email" value="" placeholder="Email..." id="inputEmail" />
+        <input type="submit" name="submit" value="Submit" class="submitButton" />
+        </form>
+      </div>
+      <div class="totalContaine" id="totalContainer">
+        <button class="clearCar" id="clearCart">
+          Clear Cart
+        </button>
+      </div>
+
     </div>
+    
   
-    <div id="totalContainer">
-      <button id="clearCart">
-        Clear Cart
-      </button>
-    </div>
+    
    
     <div id="itemArea">     
     </div>
     <br />
     <script src='index.js'></script>
-    <footer class="bg-light text-center text-lg-start">
+    <footer class="footer">
       <!-- Copyright -->
-      <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+      <div>
         © 2022 Copyright:
         <a class="text-dark">Golfer.com</a>
       </div>
