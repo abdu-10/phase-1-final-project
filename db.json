@@ -3,25 +3,25 @@
     {
       "id": 1,
       "name": "Golf clubs",
-      "image": "https://i5.walmartimages.com/asr/85d5656f-8bf2-4cb1-9a8c-9941999ea491.f8f184ace6512a112171f85fd1a99e10.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "image": "https://github.com/abdu-10/phase-1-final-project/blob/main/assets/img/Golf%20clubs.png?raw=true",
       "price": "650"
     },
     {
       "id": 2,
       "name": "Golf gloves",
-      "image": "https://contents.mediadecathlon.com/p1661267/k$8de4a03dfba382df1bfac34d5b3bb174/men-s-golf-right-handed-resistance-glove-blackslashwhite.jpg?format=auto&quality=40&f=800x800",
+      "image": "https://github.com/abdu-10/phase-1-final-project/blob/main/assets/img/Golf%20gloves.png?raw=true",
       "price": "20"
     },
     {
       "id": 3,
       "name": "Golf shoes",
-      "image": "https://cdn.shopify.com/s/files/1/0558/4169/products/WhiteGolfShoe_Concrete_1500_1000-1_00c1fd00-2708-4ac0-a59d-7d48423c8352_1024x.jpg?v=1623864559",
+      "image": "https://github.com/abdu-10/phase-1-final-project/blob/main/assets/img/Golf%20shoes.png?raw=true",
       "price": "125"
     },
     {
       "id": 4,
       "name": "Tee's",
-      "image": "https://www.vicegolf.com/repo/images/products/tees/vicegolf_tees_all-slider01_mobile.jpg",
+      "image": "https://github.com/abdu-10/phase-1-final-project/blob/main/assets/img/Tee's.png?raw=true",
       "price": "7"
     },
     {
@@ -33,25 +33,25 @@
     {
       "id": 6,
       "name": "Golf ball markers",
-      "image": "https://cdn.shopify.com/s/files/1/0038/9572/2096/products/FMM_017rt-4x6_1024x1024@2x.jpg?v=1569193907",
+      "image": "https://github.com/abdu-10/phase-1-final-project/blob/main/assets/img/Golf%20ball%20markers.png?raw=true",
       "price": "5"
     },
     {
       "id": 7,
       "name": "Divot repair tools",
-      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/17982580/1532070397.jpg",
+      "image": "https://github.com/abdu-10/phase-1-final-project/blob/main/assets/img/Divot%20repair%20tools.png?raw=true",
       "price": "12"
     },
     {
       "id": 8,
       "name": "towels",
-      "image": "https://cdn.shopify.com/s/files/1/0306/5023/7068/files/WNKB-176_8fa19b88-56c8-48aa-95c9-19d24a194445_400x.jpg?v=1605495817",
+      "image": "https://github.com/abdu-10/phase-1-final-project/blob/main/assets/img/towels.png?raw=true",
       "price": "10"
     },
     {
       "id": 9,
       "name": "Golf club tools",
-      "image": "https://m.media-amazon.com/images/I/71m2qvCQGXL._AC_SY450_.jpg",
+      "image": "https://raw.githubusercontent.com/abdu-10/phase-1-final-project/97591c8aacfe8236bea87ab8b061b83d19f08007/assets/img/golf%20clubs%20tools.png",
       "price": "11"
     }
   ],
