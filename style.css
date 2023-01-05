@@ -140,7 +140,7 @@ nav h3{
 #itemPrice {
   font-size: 20px;
   font-weight: 700;
-  color: rgb(182, 35, 35);
+  color: rgb(182, 57, 35);
   
 }
 
@@ -191,7 +191,7 @@ nav h3{
   height: 100%;
 }
 .addToCartButtonId{
-  color: red;
-  background-color: purple;
+  color: rgb(60, 255, 0);
+  background-color: rgb(136, 97, 24);
 
 }
